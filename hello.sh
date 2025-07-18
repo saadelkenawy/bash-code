@@ -10,5 +10,6 @@ name = "Saad"
 echo "This script was executed by: $name"
 famil_name = "El-Kenawy"
 echo "This script was executed by: $famil_name"
-echo "This script is running on host: $hostname"
+echo "This script is running on host: $hostname and was executed by $name $famil_name"
+
 # End of the script
