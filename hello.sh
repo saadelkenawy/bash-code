@@ -1,4 +1,3 @@
-#welcome to jenkins whook
 #!/bin/bash
 echo "Hello, Jenkins! This is a webhook test."
 # This script is intended to be triggered by a webhook event in Jenkins.
@@ -7,3 +6,6 @@ echo "Hello, Jenkins! This is a webhook test."
 hostname=$(hostname)
 echo "This script is running on host: $hostname" 
 # You can add more commands here to perform additional tasks.
+$name = "Saad El-Kenawy"
+echo "This script was executed by: $name"
+# End of the script
