@@ -6,6 +6,6 @@ echo "Hello, Jenkins! This is a webhook test."
 hostname=$(hostname)
 echo "This script is running on host: $hostname" 
 # You can add more commands here to perform additional tasks.
-$name = "Saad El-Kenawy"
+name = "Saad El-Kenawy"
 echo "This script was executed by: $name"
 # End of the script
